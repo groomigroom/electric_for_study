@@ -1,0 +1,17 @@
+* {
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+h1 {
+ font-size: 20px;   
+}
+    
+p {
+    color: #fff;
+    border: 1px solid #333;
+}
+
+p.on {
+    color: #333;
+}
